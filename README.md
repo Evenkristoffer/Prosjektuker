@@ -1,2 +1,4 @@
 # Prosjektuker
-Lage noen ting
+Wiki?
+Dashboard App?
+Redesign en tjeneste?
